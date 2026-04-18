@@ -48,20 +48,4 @@ src/
 └── index.css
 ```
 
-## 🌐 Netlify Deploy
 
-Bu proje Netlify'a deploy edilmeye hazırdır:
-
-1. GitHub'a push yapın
-2. Netlify'da "New site from Git" seçin
-3. Repository'yi seçin
-4. Build ayarları otomatik algılanacaktır
-5. Deploy edin!
-
-## 📸 Ekran Görüntüsü
-
-Uygulama çalıştırıldığında modern, kullanıcı dostu bir arayüz göreceksiniz.
-
-## 👨‍💻 Geliştirici
-
-React ve JavaScript ile geliştirildi 🚀
